@@ -2,7 +2,6 @@
 
 > **A physics-based emoji simulation featuring streak mechanics, boss modes, and glassmorphism UI.**
 
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Tech](https://img.shields.io/badge/tech-HTML5%20%7C%20CSS3%20%7C%20JS-blue.svg)
 ![Physics](https://img.shields.io/badge/physics-Matter.js-orange.svg)
 
@@ -10,7 +9,9 @@
 
 ## 📸 Demo
 
-![Project Screenshot](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R6eWJueHByZnh5Znh5Znh5Znh5Znh5/placeholder.gif)
+![Project Screenshot](![Uploading Animation.gif…])![Animation](https://github.com/user-attachments/assets/891011fa-7073-46f3-84d9-5ac776568652)
+![Uploading Animation.gif…]()
+
 *(The Volcano Mode in action: 10x Streak leads to an eruption!)*
 
 ## 🚀 Overview
@@ -53,9 +54,9 @@ No build tools or Node.js required. This is a pure static site.
 
 1.  **Clone the repo**
     ```bash
-    git clone [https://github.com/yourusername/emoji-volcano.git](https://github.com/yourusername/emoji-volcano.git)
+    git clone [https://github.com/Kavypatel07/emoji-volcano.git](https://github.com/Kavypatel07/emoji-volcano.git)
     ```
-2.  **Open `ultimate_rain.html`** in any modern web browser.
+2.  **Open `index.html`** in any modern web browser.
 3.  **Start Clicking!**
 
 ---
