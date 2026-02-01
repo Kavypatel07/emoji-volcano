@@ -10,7 +10,7 @@
 ## 📸 Demo
 
 ![Animation](https://github.com/user-attachments/assets/891011fa-7073-46f3-84d9-5ac776568652)
-![Uploading Animation.gif…](animation)
+
 
 *(The Volcano Mode in action: 10x Streak leads to an eruption!)*
 
