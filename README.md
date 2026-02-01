@@ -54,7 +54,7 @@ No build tools or Node.js required. This is a pure static site.
 
 1.  **Clone the repo**
     ```bash
-    git clone [https://github.com/Kavypatel07/emoji-volcano.git](https://github.com/Kavypatel07/emoji-volcano.git)
+    git clone https://github.com/Kavypatel07/emoji-volcano.git
     ```
 2.  **Open `index.html`** in any modern web browser.
 3.  **Start Clicking!**
